@@ -1,0 +1,27 @@
+  
+.banner{
+  background-color: #987654;
+ height: 50px;
+position: sticky;
+top: 0;
+ z-index: 100;
+display: flex;
+justify-content: space-between;
+ margin: 0;
+ border: lightgoldenrodyellow;
+ color: beige;
+ border-width: 8px;
+}
+
+.button_banner {
+ background-color:#003400;
+ color: beige;
+ border: none;
+ padding: 10px 20px;
+ margin: 10px;
+ cursor: pointer;
+}
+ .banner h1{
+  display: flex;
+  align-items: center;
+ }
